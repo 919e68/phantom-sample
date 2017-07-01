@@ -1,0 +1,32 @@
+
+
+panels: [
+  {
+    title: '',
+    markets: [
+      {
+        title: ''
+        tables: [
+          {
+            title: ''
+            rows: [
+              {
+                "Date": "0-2 2H 8'",
+                "TeamA": {
+                  "OddsR": "2.04",
+                  "OddsM": "-0.50",
+                  "OddsL": "Tigres UANL"
+                },
+                "TeamB": {
+                  "OddsR": "1.88",
+                  "OddsM": "+0.50",
+                  "OddsL": "Guadalajara Chivas"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
